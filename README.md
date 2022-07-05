@@ -1,6 +1,6 @@
 # ポートフォリオの技術スタック等の説明
 
-## teloppy.com
+## [teloppy.com](https://teloppy.com)
 
 #### ・どのようなサービスか
 
@@ -38,7 +38,7 @@ Route53(DNS)が月200円程度かかっている程度で他はほとんど料�
 
 ・バックエンド - AWS Amplify(API Gateway,Lambda,Dynamodb(Graphql),Cognito),Node.js(Express.js)
 
-・インフラ - AWS(Fargate,ESC,ELB),Docker
+・インフラ - AWS(Fargate,ECS,ELB),Docker
 
 ・テスト - なし
 
@@ -55,7 +55,7 @@ Route53(DNS)が月200円程度かかっている程度で他はほとんど料�
 パスワード - commenthub2022
 
 
-## skeizai.com
+## [skeizai.com](https://skeizai.com)
 
 ### ・どのようなサイトか
 
