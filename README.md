@@ -38,7 +38,7 @@ Route53(DNS)が月200円程度かかっている程度で他はほとんど料�
 
 ・バックエンド - AWS Amplify(API Gateway,Lambda,Dynamodb(Graphql),Cognito),Node.js(Express.js)
 
-・インフラ - AWS(Docker,Fargate,ESC,ELB)
+・インフラ - AWS(Fargate,ESC,ELB),Docker
 
 ・テスト - なし
 
