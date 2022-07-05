@@ -53,7 +53,7 @@ Route53(DNS)が月200円程度かかっている程度で他はほとんど料�
 
 メールアドレス - commenthub.testuser@gmail.com
 
-パスワード - commenthub2022
+パスワード - CommentHub2022
 
 
 また、一度ログインしたらローカルストレージにてtokenを保存し、ブラウザを閉じても自動でログインされるようになっています。
