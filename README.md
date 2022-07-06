@@ -26,7 +26,7 @@ Route53(DNS)が月200円程度かかっている程度で他はほとんど料�
 また、動画生成のロジックとしてはフロント側で録画はできませんので、サーバー側でブラウザ(ヘッドレス)を立ち上げて録画しています。録画にはPlaywright(ブラウザ操作用ライブラリ)を使用しております。
 
 
-## commenthub(現在、インフラを調整中)
+## [commenthub.tk](https://commenthub.tk) (現在、インフラを調整中)
 
 #### ・どのようなサービスか
 
@@ -38,7 +38,7 @@ Route53(DNS)が月200円程度かかっている程度で他はほとんど料�
 
 ・バックエンド - AWS Amplify(API Gateway,Lambda,Dynamodb(Graphql),Cognito),Node.js(Express.js)
 
-・インフラ - AWS(Fargate,ECS,ELB,Route53,Cloudfront),Docker
+・インフラ - AWS(Fargate,ECS,ECR,ELB,Route53),Docker
 
 ・テスト - なし
 
